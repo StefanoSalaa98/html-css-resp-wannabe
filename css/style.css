@@ -150,6 +150,11 @@ img {
 
     .row {
         flex-wrap: wrap;
+        gap:20px;
+    }
+
+    .steps .col {
+        width: 100%;
 }
 
 
