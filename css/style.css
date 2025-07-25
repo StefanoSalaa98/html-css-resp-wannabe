@@ -138,12 +138,6 @@ img {
 
 @media screen and (max-width:480px){
 
-    /*DEBUG*/
-    body{
-        background-color:red;
-
-    }
-
     .lessons .col {
         width: 100%;
     }
@@ -155,7 +149,14 @@ img {
 
     .steps .col {
         width: 100%;
-}
+    }
+    
+    .why-us .col-left {
+        width: 100%;
+    }
 
+    .why-us .col-right {
+        width: 100%;
+    }
 
 }
