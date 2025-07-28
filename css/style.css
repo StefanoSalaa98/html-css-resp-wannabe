@@ -159,6 +159,10 @@ img {
     .steps .col {
         width: 100%;
     }
+
+    .steps .text{
+        padding-bottom:2rem;
+    }
     
     .why-us .col-left {
         width: 100%;
@@ -175,7 +179,7 @@ img {
     }
 
     .why-us .container{
-        padding-top:50px;
+        padding-top:3rem;
     }
 
 }
