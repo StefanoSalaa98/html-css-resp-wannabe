@@ -169,8 +169,13 @@ img {
     }
 
     .why-us {
-    color:white;
-    background-color:black;
-}
+        margin-bottom: 0;
+        color:white;
+        background-color:black;
+    }
+
+    .why-us .container{
+        padding-top:50px;
+    }
 
 }
