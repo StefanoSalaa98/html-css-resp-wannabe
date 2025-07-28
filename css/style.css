@@ -156,6 +156,10 @@ img {
         gap:20px;
     }
 
+    .steps{
+        margin-bottom: 0;
+    }
+
     .steps .col {
         width: 100%;
     }
